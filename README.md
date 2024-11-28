@@ -5,7 +5,7 @@
 
 # CELESTIALS NFT WHITELIST AIRDROP GUIDE
 
-How to generate wallet and qualify for Celestials NFT Airdrop
+How to generate wallet and MINT Celestials Welcome NFT 
 
 # OPEN POWERSHELL AS ADMIN ON WINDOWS
 
