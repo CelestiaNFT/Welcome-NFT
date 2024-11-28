@@ -1,5 +1,5 @@
 
-![photo_5926748594818368500_y](https://github.com/user-attachments/assets/85e19765-ffdc-4c8a-97ab-e04692c10ca7)
+<img src="https://github.com/user-attachments/assets/85e19765-ffdc-4c8a-97ab-e04692c10ca7" alt="photo_5926748594818368500_y" width="300" />
 
 # CELESTIALS NFT WHITELIST AIRDROP GUIDE
 How to generate wallet and qualify for Celestials NFT Airdrop
